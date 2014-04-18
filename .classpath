@@ -95,5 +95,9 @@
 	<classpathentry kind="lib" path="lib/htrace-core-2.05.jar"/>
 	<classpathentry kind="lib" path="lib/guava-14.0.1.jar"/>
 	<classpathentry kind="lib" path="lib/metrics-annotation-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/high-scale-lib-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/metrics-core-2.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.2.9.Final.jar"/>
+	<classpathentry kind="lib" path="lib/org.mortbay.jetty.https.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
